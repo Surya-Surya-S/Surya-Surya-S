@@ -1,8 +1,9 @@
 Hi there 👋, 
+
 My name is Surya, and I'm a Frontend Developer.
-- 🔭 I’m currently working on [Accopack Informatics](http://accopack.com)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on [Accopack Informatics](http://accopack.com), building an website design and develop company.
+- 🌱 I’m recently build a rawat company website check it out [Rawat](https://soumex.in/Rawat/)
+- 👯 I’m looking for Frontend developer Job.
 
 <!--
 **Surya-Surya-S/Surya-Surya-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
